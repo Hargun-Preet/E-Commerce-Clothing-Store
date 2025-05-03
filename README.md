@@ -3,9 +3,11 @@
 
 **Kamikaze** is a sleek and fully responsive e-commerce clothing platform built with the **MERN stack (MongoDB, Express.js, React.js, Node.js)**. Designed for performance and style, Kamikaze delivers a premium shopping experience, whether you're a buyer or an admin managing the store.
 
-![Kamikaze Demo](https://img.youtube.com/vi/46pNyeggHL4/0.jpg)](https://youtu.be/46pNyeggHL4)
+## 📹 Demo Video
 
-[▶️ Watch Demo Video](https://youtu.be/46pNyeggHL4)
+Click the image below to watch the demo:
+
+[![Watch the demo](https://img.youtube.com/vi/46pNyeggHL4/0.jpg)](https://www.youtube.com/watch?v=46pNyeggHL4)
 
 ---
 
