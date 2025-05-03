@@ -39,11 +39,14 @@ Click the image below to watch the demo:
 # Clone the repository
 git clone https://github.com/Hargun-Preet/kamikaze.git
 cd kamikaze
+```
 
 # Install server and client dependencies
+```bash
 npm install             # in the root folder
 npm install             # for backend
 cd client && npm install   # for frontend
+```
 
 ## 🔐 Environment Variables
 
@@ -55,6 +58,7 @@ MONGO_URI=mongodb://127.0.0.1:27017/ECommerceStore
 JWT_SECRET=your_jwt_secret_key
 NODE_ENV=development
 
+
 # Email for order notifications (Optional)
 EMAIL_USER=your_email@example.com
 EMAIL_PASS=your_email_app_password
@@ -63,9 +67,12 @@ EMAIL_PASS=your_email_app_password
 PAYPAL_CLIENT_ID=your_paypal_client_id
 PAYPAL_EMAIL=your_paypal_email@example.com
 PAYPAL_PASSWORD=your_paypal_sandbox_password
+```
 
 # Start the development server
+```bash
 cd frontend
 npm run frontend
 cd backend
 npm run backend
+```
