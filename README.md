@@ -41,6 +41,7 @@ git clone https://github.com/Hargun-Preet/kamikaze.git
 cd kamikaze
 
 # Install server and client dependencies
+npm install             # in the root folder
 npm install             # for backend
 cd client && npm install   # for frontend
 
