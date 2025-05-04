@@ -17,9 +17,14 @@ Click the image below to watch the demo:
 - 🛒 **Add to Cart, Remove, and Dynamic Checkout**
 - 💳 **PayPal Payment Gateway Integration**
 - 🧾 **Admin Dashboard for Managing Products and Users**
-- 📦 **Product Filtering by Category, Price, and Style**
+- 📦 **Product Filtering by Category, Price, and Brand**
 - 📱 **Fully Responsive Design**
 - ⚡ **Optimized for Speed and Usability**
+- 🗂 **Category Management:** Create, update, and delete product categories to organize inventory effectively.
+- ➕ **Product Management:** Add new products, update product details, and remove products seamlessly.
+- 📃 **Order Management:** View comprehensive order lists and mark orders as delivered to streamline fulfillment.
+- ⭐ **User Engagement:** Add products to favourites and write reviews to share feedback.
+
 
 ---
 
